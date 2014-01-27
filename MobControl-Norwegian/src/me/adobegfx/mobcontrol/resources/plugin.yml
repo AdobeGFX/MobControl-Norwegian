@@ -1,0 +1,7 @@
+author: AdobeGFX
+database: false
+description: Kontrollerer hvilke mobs som skal spawe og ikke spawne
+main: me.AdobeGFX.Main.MobControl
+name: MobControl
+startup: postworld
+version: '1.0'
